@@ -1,0 +1,10 @@
+
+*.vsidx
+
+.vs/mainsail-configurations.slnx/v18/.wsuo
+
+*.json
+
+.vs/mainsail-configurations/CopilotIndices/18.3.277.3498/
+
+*.sqlite
